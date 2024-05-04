@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fumiya-Tahara&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fumiya-Tahara&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fumiya-Tahara&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fumiya-Tahara&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Fumiya-Tahara/Fumiya-Tahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
